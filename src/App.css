@@ -54,11 +54,11 @@ p {
 	top: 30px;
 	left: 30px;
 }
-
-.card-container .round {
+.App .photodeprofil {
 	border: 1px solid #03BFCB;
 	border-radius: 50%;
 	padding: 7px;
+	width: 220px;
 }
 
 button.primary {

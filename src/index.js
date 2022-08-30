@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Fullname from './profile/fullname'
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const element = < Fullname firstName="Jaafer" lastName="Mnassri" />
-root.render(element);
+
+
 root.render(
   
   <React.StrictMode>
